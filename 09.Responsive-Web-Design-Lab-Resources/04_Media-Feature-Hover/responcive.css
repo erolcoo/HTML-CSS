@@ -1,0 +1,7 @@
+@media (hover: hover) {
+   
+   selector:hover {
+       color: white;
+       background-color: black;
+   }
+}
